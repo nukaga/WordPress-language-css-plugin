@@ -1,0 +1,102 @@
+/*
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+This is WordPress Language CSS of Japanese .
+*/
+
+/*Typography HTML*/
+
+
+html{
+	letter-spacing: 0.06em;
+}
+
+button,
+input,
+select,
+textarea {
+	font-size: 0.88em;
+}
+
+p {
+	font-size: 0.9em;
+	line-height:1.6em;
+}
+
+dfn,
+cite,
+blockquote em,
+blockquote i,
+blockquote cite 
+{
+	font-style: normal;
+}
+
+blockquote {
+	font-size: 1.8rem;
+	font-style: normal;
+}
+
+address {
+	font-style: normal;
+	font-size: 0.8em;		
+}
+
+sup,
+sub,
+pre,
+small {
+	font-size: 0.75em;
+}
+
+big {
+	font-size: 1.5em;
+}
+
+
+/*Typography WordPress*/
+
+.post ul,
+.post ol {
+	font-size: 0.88em; 
+ }
+
+.post dt,
+.post dd
+{
+	font-size: 0.9em;	
+}
+
+.post ul ul,
+.post ol ol { 
+	font-size: 100%; 
+}
+
+.entry-title{
+	font-size: 1.6em;	
+}
+
+.entry-footer{
+	font-size: 0.8em;		
+}
+
+.entry-content h1, 
+.entry-summary h1, 
+.page-content h1, 
+.comment-content h1{
+	font-size: 1.6em;		
+}
+
+.entry-content h2, 
+.entry-summary h2, 
+.page-content h2, 
+.comment-content h2{
+	font-size: 1.5em;		
+}
+
+.post table{
+	font-size: 0.88em;	
+}
